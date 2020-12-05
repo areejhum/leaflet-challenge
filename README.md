@@ -1,4 +1,4 @@
-# Leaflet chalenge - Visualizing Data with Leaflet
+# Leaflet challenge - Visualizing Data with Leaflet
 
 ## Background
 
