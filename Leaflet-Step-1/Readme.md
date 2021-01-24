@@ -1,4 +1,4 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Visualizing Data with Leaflet
 
 ## Background
 
@@ -10,23 +10,22 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Before You Begin
 
-1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `leaflet-challenge`.
 
 2. Clone the new repository to your computer.
 
 3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
 
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
+4. This project utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
 
 5. Push the above changes to GitHub or GitLab.
 
-## Your Task
 
 ### Level 1: Basic Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
-Your first task is to visualize an earthquake data set.
+ visualize an earthquake data set.
 
 1. **Get your data set**
 
@@ -40,7 +39,7 @@ Your first task is to visualize an earthquake data set.
 
    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-   * Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+   * The data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
 
    * Include popups that provide additional information about the earthquake when a marker is clicked.
 
@@ -68,7 +67,7 @@ In this step we are going to..
 
 ### Assessment
 
-Your final product will be assessed on the following metrics:
+The final product will be assessed on the following metrics:
 
 * Completion of assigned tasks
 
@@ -76,8 +75,5 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-**Good luck!**
+**Enjoy!**
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
